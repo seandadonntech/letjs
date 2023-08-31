@@ -1,0 +1,2 @@
+# letjs
+arguments in js
